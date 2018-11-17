@@ -25,5 +25,6 @@
   ],
   "devDependencies": {
     "@babel/standalone": "^7.1.0"
-  }
+  },
+  "homepage": "https://lbwa.github.io/live-compiler"
 }
